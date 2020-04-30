@@ -11,7 +11,7 @@
     "animate.css": "^3.7.2",
     "animateplus": "^2.1.1",
     "core-js": "^2.6.5",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
